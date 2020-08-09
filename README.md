@@ -1,2 +1,2 @@
 # myjavadoc
-java相关文档上学积累
+java相关文档日常积累
